@@ -51,8 +51,18 @@ Ford High School:	    80.632653	81.262712	80.403642	80.662338
 Griffin High School:	83.369193	83.706897	84.288089	84.013699
   
 The scores by school spending per student (3 pt)
+The scores by school spending per student in ascending order are Cabrera High School (<586), Bailey High School (586-630), Griffin High School (586-630), Figueroa High School (631-645) and Ford High School (631-645). 
 
 The scores by school size (3 pt)
-The scores by school type (3 pt)
+	
+School Size		      Avg Math	Avg Read	% Pass Math	% Pass Read	% Overall Passing			
+Small (<1000)	      83.821598	83.929843	93.550225	  96.099437	  89.883853
+Medium (1000-1999)	83.361201	83.873869	93.582398	  96.732654	  90.557997
+Large (2000-5000)	  77.746417	81.344493	69.963361	  82.766634	  58.286003
 
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+The scores by school type (3 pt)
+	
+School Type		Avg Math 	Avg Read	% Pass Math	% Pass Read	% Overall Passing		
+Charter	     83.465425	83.902315	93.610020	  96.550223	  90.392533
+District	   76.956733	80.966636	66.548453	  80.799062	  53.672208
+
